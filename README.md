@@ -15,7 +15,6 @@ Para instalar em seu LigeroSmart, acesse Administração -> Gerenciamento de Pac
 Instale o OPM disponível neste repositório Git.
 Em seguida, acesse Administração -> Gerenciamento de Processos. Do lado esquerdo da tela, você encontrará uma caixa chamada "Processos Ready2Adopt".
 Selecione PedidoDeCompras e clique em "Importar processos Ready2Adopt".
-Você pode alterar o título do Processo se preferir, colocando espaços entre as palavras.
 O processo foi importado, mas ainda precisa clicar em "Implantar todos os processos" para que ele apareça na lista de novos chamados de processo.
 Verifique se não é necessário realizar a implantação também de novas configurações de sistema, acessando Administração --> Configurações do Sistema.
 
